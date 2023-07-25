@@ -12,7 +12,9 @@ Estoy usando Bootstrap con preprocesador SCSS.
 
 ## Instalación
 1.Clonar el proyecto
+
 2.cd gameList
+
 3.Para instalar node_modules y otras dependencias, ejecute los comandos:
 
 npm install
