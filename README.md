@@ -24,3 +24,7 @@ npm install
 ng serve
 
 5. Navigate to `http://localhost:4200/`
+
+# Nota
+
+El servicio tiene un problema con CORS, al momento de trabajar yo use la extención: Allow CORS: Access-Control-Allow-Origin de Chrome.
